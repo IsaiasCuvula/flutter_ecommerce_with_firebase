@@ -32,7 +32,7 @@ Experience the future of e-commerce today. Get them now!
 ## Admin App Credentials: admin267@gmail.com, password: 123456789
 ## Customer App Credentials: joana@gmail.com, password: 123456789 or login with Google
 
-# Get this Flutter Eccommerce App with Firebase Kit: bersyteinfo@gmail.com
+# Get this Flutter Eccommerce App with Firebase Kit: https://codecanyon.net/item/ishop-functional-multi-purpose-ecommerce-flutter-app/47990290
 
 ## What will you get?
 - The single code base for both Android & iOS
