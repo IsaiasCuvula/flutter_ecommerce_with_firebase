@@ -33,7 +33,7 @@ Experience the future of e-commerce today. Get them now!
 ## Customer App Credentials: isaiah@gmail.com, password: 123456789 or login with Google
 
 # Get this Flutter Eccommerce App with Firebase Kit: bersyteinfo@gmail.com
-# 
+
 ## What will you get?
 - The single code base for both Android & iOS
 - Support Flutter's latest version
