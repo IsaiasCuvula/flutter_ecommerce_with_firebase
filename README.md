@@ -23,6 +23,8 @@ Admins, you're in control! Our admin panel lets you customize the shopping exper
 
 Experience the future of e-commerce today. Get them now!
 # 
+## [**Watch demo app on YouTube**](https://www.youtube.com/watch?v=da8hPYxt5n8)
+
 ## Android apk file for testing:
 - [**Admin App here**](https://drive.google.com/file/d/1AJfFpEp4096D6fraGkDSGzHp-15RBCpa/view?usp=sharing)
 - [**Customer App here**](https://drive.google.com/file/d/1-FCwLmpiylj9OPRoWuRgehOSSumZJnSB/view?usp=sharing)
