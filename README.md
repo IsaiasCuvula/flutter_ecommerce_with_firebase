@@ -27,7 +27,7 @@ Experience the future of e-commerce today. Get them now!
 
 ## Android apk file for testing:
 - [**Admin App here**](https://drive.google.com/file/d/1u5julap1hx-3AuqA6NjUxLtd0JkC6GIN/view?usp=sharing)
-- [**Customer App here**](https://drive.google.com/file/d/1hrbmjBUkbNFNVsJ4Ck5uqlmoRCBzUEfd/view?usp=sharing)
+- [**User App here**](https://drive.google.com/file/d/19HjNtUOFVba25YBcCpRs3J8IAQYRNSST/view?usp=sharing)
 
 ## Admin App Credentials: admin267@gmail.com, password: 123456789
 ## Customer App Credentials: isaiah@gmail.com, password: 123456789 or login with Google
