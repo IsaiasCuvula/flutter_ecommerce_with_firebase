@@ -7,20 +7,6 @@ Both Apps are built with Flutter, an open-source mobile application development 
  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/afe38650-a8ea-4280-ae57-d91bdad373b1" />
  
 #
-Flutter E-commerce App with Firebase! Seamlessly switch between Light and Dark Mode for a personalized shopping experience. Enjoy shopping in English or any language of your choice.
-
-🔐 Securely login or sign up with ease, and even reset your password effortlessly. The stunning onboarding layout welcomes you to a world of possibilities.
-
-🛒 Browse by category, explore popular products, and find what you love with our powerful search and filter options. Save your favorites, edit your account details, and change your password in a breeze.
-
-🛍️ Shop confidently, pay seamlessly with Stripe integration, and enjoy beautiful product pages with reviews, descriptions, and features. Our app adapts to your preferred mode – light or dark.
-
-🚀 Powered by Firebase, it's responsive, performance-friendly, and perfect for any device. Order with confidence, manage your items, and even control custom parameters per product.
-
-🌟 Rate and review your purchases, easily update cart quantities and manage your addresses effortlessly. Stay in the loop with push notifications.
-
-Admins, you're in control! Our admin panel lets you customize the shopping experience, manage products, set sales, and more. See all users and track wishlists and orders with ease.
-
 Experience the future of e-commerce today. Get them now!
 # 
 ## [**Watch demo app on YouTube**](https://www.youtube.com/watch?v=da8hPYxt5n8)
@@ -33,6 +19,7 @@ Experience the future of e-commerce today. Get them now!
 ## User App Credentials: isaiah@gmail.com, password: 123456789 or login with Google
 
 # Get this Flutter Eccommerce App with Firebase Kit: https://codecanyon.net/item/ishop-functional-multi-purpose-ecommerce-flutter-app/47990290
+# Or Get this Flutter Eccommerce App with Firebase here: https://isaiascuvula.gumroad.com/l/uasjsw
 
 ## What will you get?
 - The single code base for both Android & iOS
