@@ -1,10 +1,16 @@
 # Flutter Ecommerce App with Firebase - Admin & Customer App  
 
-iShop is Flutter Ecommerce App with Firebase - Two Apps: Admin & Customer -  well-documented and coded. I follow a simple and easy-to-understand coding structure, and code comments (documentation) are included in each .dart file which will make it easier for you to understand the code.
+**iShop** is a modern **Flutter & Firebase–based eCommerce system** built for performance, scalability, and seamless user experience.
 
-Both Apps are built with Flutter, an open-source mobile application development framework created by Google. It is used to develop applications for Android and iOS.
+It’s the perfect choice for launching your own online store: **fast, secure, and ready to scale.
 
- <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/afe38650-a8ea-4280-ae57-d91bdad373b1" />
+It provides a complete shopping platform with Integrated payment, order tracking, notification, ads, and analytics services, all in one package.
+
+Whether you’re selling fashion, electronics, beauty, or digital products, iShop gives you everything you need to run a professional mobile shopping experience — all from your smartphone.
+
+With its modern UI, powerful backend, and cross-platform support, iShop delivers a smooth, engaging, and high-performance shopping experience for both customers and store owners.
+
+<img alt="iShop" src="https://github.com/user-attachments/assets/dbf9b518-e83c-4639-bc2c-a38bec12401e" />
  
 #
 Experience the future of e-commerce today. Get them now!
@@ -16,10 +22,9 @@ Experience the future of e-commerce today. Get them now!
 - [**User App here**](https://drive.google.com/file/d/1j_gboWPYSSApFNBZEDOb3sS65gyPtqQK/view?usp=sharing)
 
 ## Admin App Credentials: admin267@gmail.com, password: 123456789
-## User App Credentials: isaiah@gmail.com, password: 123456789 or login with Google
+## For User App Credentials: Use Email & Password or login with Google
 
-# Get this Flutter Eccommerce App with Firebase Kit: https://codecanyon.net/item/ishop-functional-multi-purpose-ecommerce-flutter-app/47990290
-# Or Get this Flutter Eccommerce App with Firebase here: https://isaiascuvula.gumroad.com/l/uasjsw
+# Get this Scalable Flutter Eccommerce App with Firebase Kit: https://isaiascuvula.gumroad.com/l/uasjsw
 
 ## What will you get?
 - The single code base for both Android & iOS
@@ -27,7 +32,7 @@ Experience the future of e-commerce today. Get them now!
 - Smooth Transition Effects
 - Fully responsive UI
 - Easy to customize
-- 30+ screens
+- 42+ screens
 - Clean Code and a well-structured project, easy-to-understand
 - Separate folder and file for each feature
 - Easy to edit and adapt to your needs
@@ -39,23 +44,20 @@ Experience the future of e-commerce today. Get them now!
 
 <p align="left">
 
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/2a5ef9fe-f962-40c2-be58-4f27b0bd35f8" />
- 
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/3b7d915d-4fc1-4428-bb6f-e6f5f7a6e1d2" />
-
-  <img  alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/94c36d85-a099-4263-939b-bd21bafe28a7" />
-   
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/004f04db-1d26-404d-8419-2904d02e3886" />
-  <img  alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/8f945d54-6963-4260-a9cf-3d2067458df2" />
- 
-  <img  alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/73935ddc-52d8-4549-829d-ee1247c3bc64" />
-  
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/9d886027-9834-4d83-b851-9581d2cd5187" />
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/2835bf21-cf24-476f-8987-b1962b02a71a" />
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/5764a682-0121-4166-9246-fe61a9e570fc" />
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/3a3d8f2f-e7c9-4452-9275-c5c6c26ef49d" />
-  <img alt="iShop" src="https://github.com/IsaiasCuvula/Flutter-Developer-Portfolio/assets/68303716/664a4d75-ae3a-405b-8c46-429b075aa223" />
-            
+<img alt="iShop" src="https://github.com/user-attachments/assets/efaed42c-25bc-42c1-b49f-c277f955ffc1" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/b1c44a6d-3e19-467b-95ad-d479529f3b1a" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/9bbc4234-ca1b-4959-9d38-e2aada78f143" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/31e3659b-f62e-472a-b5e1-986b440e2037" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/286519c2-4ac8-4da5-9228-9c0041e4b13c" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/0ffe288c-6610-4805-bc45-4cb4c7a30e99" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/a11557f0-127e-4c79-88ff-ce157c9f97d7" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/88eb1a13-4e3f-4487-bd73-9cd0da7fd6cb" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/f6a7167d-3328-414c-862d-1a8c53e376e2" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/fa5030b9-de76-4687-9634-b08f37ba0c92" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/e08a41b3-543c-4b01-b637-f622b92c98a2" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/5075f58e-3691-4c17-9bcf-600871ff1f37" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/5f41afa1-a886-499d-9135-401044129ef3" />
+<img alt="iShop" src="https://github.com/user-attachments/assets/90ade9ee-2dee-44cc-8043-35390a48f361" /> 
             
 </p>
 
