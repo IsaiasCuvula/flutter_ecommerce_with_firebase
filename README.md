@@ -18,7 +18,7 @@ Experience the future of e-commerce today. Get them now!
 ## [**Watch demo app on YouTube**](https://www.youtube.com/watch?v=da8hPYxt5n8)
 
 ## Android apk file for testing:
-- [**Admin App here**](https://drive.google.com/file/d/1TBajiqQGv2EqisZfrBd5JspGEhaMiuFW/view?usp=sharing)
+- [**Admin App here**](https://drive.google.com/file/d/1aeWHZgU_6Njodc3_zni6r72W3zepap8g/view?usp=sharing)
 - [**User App here**](https://drive.google.com/file/d/1wphPC7j6cPr9hnfTVdMuxSO3XjFpfyc3/view?usp=sharing)
 
 ## Admin App Credentials: admin267@gmail.com, password: 123456789
