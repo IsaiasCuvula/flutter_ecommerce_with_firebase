@@ -19,10 +19,10 @@ Experience the future of e-commerce today. Get them now!
 
 ## Android apk file for testing:
 - [**Admin App here**](https://drive.google.com/file/d/1aeWHZgU_6Njodc3_zni6r72W3zepap8g/view?usp=sharing)
-- [**User App here**](https://drive.google.com/file/d/1wphPC7j6cPr9hnfTVdMuxSO3XjFpfyc3/view?usp=sharing)
+- [**User App here**](https://drive.google.com/file/d/127Ymd72oFbkTdyxspph3-7don3yO1Uud/view?usp=sharing)
 
 ## Admin App Credentials: admin267@gmail.com, password: 123456789
-## For User App Credentials: Use Email & Password or login with Google
+## User App Credentials: support@ishop.com & Pasword : 123456789 or Log in with Google
 
 # Get this Scalable Flutter Eccommerce App with Firebase Kit: https://isaiascuvula.gumroad.com/l/uasjsw
 
