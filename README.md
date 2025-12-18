@@ -10,7 +10,7 @@ Whether you’re selling fashion, electronics, beauty, or digital products, iSho
 
 With its modern UI, powerful backend, and cross-platform support, iShop delivers a smooth, engaging, and high-performance shopping experience for both customers and store owners.
 
-<img alt="iShop" src="https://github.com/user-attachments/assets/dbf9b518-e83c-4639-bc2c-a38bec12401e" />
+<img alt="iShop Flutter Ecommerce App" src="https://github.com/user-attachments/assets/270b86e3-35b8-4005-ab15-bce08eb6181b" />
  
 #
 Experience the future of e-commerce today. Get them now!
@@ -44,7 +44,6 @@ Experience the future of e-commerce today. Get them now!
 
 <p align="left">
 
-<img alt="iShop Flutter Ecommerce App" src="https://github.com/user-attachments/assets/270b86e3-35b8-4005-ab15-bce08eb6181b" />
 <img alt="iShop Flutter Ecommerce App" src="https://github.com/user-attachments/assets/29469880-b003-43ea-a5c3-62c3576ce687" />
 <img alt="iShop Flutter Ecommerce App" src="https://github.com/user-attachments/assets/7153af8f-8feb-44fb-891a-0b66a7becfc1" />
 <img alt="iShop Flutter Ecommerce App" src="https://github.com/user-attachments/assets/efd151f1-9b79-4237-b21e-b977a7cfc0c8" />
